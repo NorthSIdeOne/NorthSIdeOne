@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=northsideone" alt="northsideone" /></a> </p>
 
-- 🔭 I’m currently working on [PhoneBox](https://github.com/NorthSIdeOne/PhoneBox)
+- 🔭 I’m currently working on [EasyMoney](https://github.com/NorthSIdeOne/EasyMoney)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
